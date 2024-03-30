@@ -1,0 +1,71 @@
+[
+    {
+        "title": "avatar",
+        "description": "assets/img/avatar.webp"
+    },
+    {
+        "title": "certification-icon-1",
+        "description" : "assets/icons/javascript.png"
+    },
+    {
+        "title": "blog-one-img",
+        "description":"assets/img/blog/blog-one.jpg"
+    },
+    {
+        "title": "blog-two-img",
+        "description":"assets/img/blog/blog-two.jpg"
+    },
+    {
+        "title":"blog-three-img",
+        "description" :"assets/img/blog/blog-three.webp"
+    },
+    {
+        "title": "blog-four-img",
+        "description" :"assets/img/blog/blog-four.png"
+    },
+    {
+        "title":"blog-five-img",
+        "description": "assets/img/blog/blog-five.png"
+    },
+    {
+        "title":"skills-icon-1",
+        "description":"assets/icons/react-js-icon.png"
+    },
+    {
+        "title" : "skills-icon-2",
+        "description":"assets/icons/icons8-nodejs-96.png"
+    },
+    {
+        "title":"skills-icon-3",
+        "description" :"assets/icons/nextjs-icon.png"
+    },
+    {
+        "title":"skills-icon-4",
+        "description":"assets/icons/laravel.svg"
+    },
+    {
+        "title":"skills-icon-5",
+        "description":"assets/icons/Retool.png"
+    },
+    {
+        "title":"skills-icon-6",
+        "description":"assets/icons/icons8-webflow-96.png"
+    },
+    {
+        "title":"skills-icon-7",
+        "description":"assets/icons/icons8-asp-80.png"
+    },
+    {
+        "title":"skills-icon-8",
+        "description":"assets/icons/chatgpt-icon.png"
+    },
+    {
+        "title":"skills-icon-9",
+        "description":"assets/icons/icons8-unity-96.png"
+    },
+    {
+        "title":"skills-icon-10",
+        "description":"assets/icons/icons8-php-logo-128.png"
+    }
+
+]
