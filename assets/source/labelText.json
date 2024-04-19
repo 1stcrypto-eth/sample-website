@@ -1,7 +1,7 @@
 [
     {
         "title": "description",
-        "description": "As a Front-End Engineer since 2017, I have successfully developed and launched over 15 large and medium-sized websites, in a diverse range of industries including E-Commerce, E-Learning, Real Estate, and Finance, among others. My expertise extends to extra front-end development skills such as Search Engine Optimization (SEO), Core Web Vitals (CWV), and Analytics Tools, ensuring optimal performance and user engagement across all projects. Solid understanding of back-end technologies, including RESTful APIs and Database Management, and still on the way to learning and improving in these areas."
+        "description": "As a Full Stack developer since 2017, I have successfully developed and launched over 15 large and medium-sized websites, in a diverse range of industries including E-Commerce, E-Learning, Real Estate, and Finance, among others. My expertise extends to extra front-end development skills such as Search Engine Optimization (SEO), Core Web Vitals (CWV), and Analytics Tools, ensuring optimal performance and user engagement across all projects. Solid understanding of back-end technologies, including RESTful APIs and Database Management, and still on the way to learning and improving in these areas."
     },
     {
         "title": "role-top",
@@ -9,11 +9,11 @@
     },
     {
         "title": "certification-title-1",
-        "description" : "Certified Professional JavaScript Programmer, specialization: Front-End Web Development"
+        "description" : "Certified Professional JavaScript Programmer"
     },
     {
         "title": "certification-description-1",
-        "description": "Achieved JSP-42A-01 (Certified Professional JavaScript Programmer, specialization: Front-End Web Development) whose focus is on the essentials of web development such as HTML5, CSS3, DOM, event-driven programming, AJAX, simple REST APIs (with Node.js and Express), and some of the more advanced areas that cover the domain of front-end development, which include: responsive web design, Bootstrap, jQuery, Webpack, Babel, code versioning, benchmarking and testing tools, the essential knowledge of backbone, vue.js, react.js, and angular.js frameworks. JSP-A certification validate the my proficiency in using the JavaScript programming skills, tooling, and related frameworks and technologies, as well as the adoption of best practices, standards, and coding conventions for the purposes of designing, creating, and facilitating modern client-side web development projects and applications."
+        "description": "Achieved JSP-42A-01 (Certified Professional JavaScript Programmer, specialization: Front-end Web Development) whose focus is on the essentials of web development such as HTML5, CSS3, DOM, event-driven programming, AJAX, simple REST APIs (with Node.js and Express), and some of the more advanced areas that cover the domain of front-end development, which include: responsive web design, Bootstrap, jQuery, Webpack, Babel, code versioning, benchmarking and testing tools, the essential knowledge of backbone, vue.js, react.js, and angular.js frameworks. JSP-A certification validate the my proficiency in using the JavaScript programming skills, tooling, and related frameworks and technologies, as well as the adoption of best practices, standards, and coding conventions for the purposes of designing, creating, and facilitating modern client-side web development projects and applications."
     },
     {
         "title": "skils-1",
@@ -21,39 +21,63 @@
     },
     {
         "title": "skils-2",
-        "description" : "Node.js"
+        "description" : "Angular"
     },
     {
         "title": "skils-3",
-        "description" : "Next.js"
+        "description" : "Vue"
     },
     {
         "title": "skils-4",
-        "description" : "Laravel"
+        "description" : "Node.js"
     },
     {
         "title": "skils-5",
-        "description" : "Retool"
+        "description" : "Next.js"
     },
     {
         "title": "skils-6",
-        "description" : "WebFlow"
+        "description" : "Nest.js"
     },
     {
         "title": "skils-7",
-        "description" : "ASP.NET"
+        "description" : "Rust"
     },
     {
         "title": "skils-8",
-        "description" : "ChatGpt"
+        "description" : "Ruby On Rails"
     },
     {
         "title": "skils-9",
-        "description" : "Unity"
+        "description" : "Django"
     },
     {
         "title": "skils-10",
-        "description" : "PHP"
+        "description" : "ASP.NET"
+    },
+    {
+        "title": "skils-11",
+        "description" : "Shopify"
+    },
+    {
+        "title": "skils-12",
+        "description" : "PostgreSQL"
+    },
+    {
+        "title": "skils-13",
+        "description" : "MS SQL"
+    },
+    {
+        "title": "skils-13",
+        "description" : "AWS"
+    },
+    {
+        "title": "skils-14",
+        "description" : "Aure"
+    },
+    {
+        "title": "skils-15",
+        "description" : "Git"
     },
     {
         "title" : "innovation_description",

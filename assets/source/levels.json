@@ -13,30 +13,50 @@
     },
     {
         "title": "skill-level-4",
-        "description": "4"
+        "description": "5"
     },
     {
         "title": "skill-level-5",
-        "description": "5"
+        "description": "4.5"
     },
     {
         "title": "skill-level-6",
-        "description": "3"
+        "description": "4.5"
     },
     {
         "title": "skill-level-7",
-        "description": "5"
+        "description": "4"
     },
     {
         "title": "skill-level-8",
-        "description": "5"
+        "description": "4"
     },
     {
         "title": "skill-level-9",
-        "description": "5"
+        "description": "4"
     },
     {
         "title": "skill-level-10",
-        "description": "3.5"
+        "description": "4.5"
+    },
+    {
+        "title": "skill-level-11",
+        "description": "5"
+    },
+    {
+        "title": "skill-level-12",
+        "description": "4.5"
+    },
+    {
+        "title": "skill-level-13",
+        "description": "4"
+    },
+    {
+        "title": "skill-level-14",
+        "description": "4"
+    },
+    {
+        "title": "skill-level-15",
+        "description": "5"
     }
 ]

@@ -33,39 +33,58 @@
     },
     {
         "title" : "skills-icon-2",
-        "description":"assets/icons/icons8-nodejs-96.png"
+        "description":"assets/icons/angular.png"
     },
     {
         "title":"skills-icon-3",
-        "description" :"assets/icons/nextjs-icon.png"
+        "description" :"assets/icons/vue.png"
     },
     {
         "title":"skills-icon-4",
-        "description":"assets/icons/laravel.svg"
+        "description":"assets/icons/node.png"
     },
     {
         "title":"skills-icon-5",
-        "description":"assets/icons/Retool.png"
+        "description":"assets/icons/nextjs-icon.png"
     },
     {
         "title":"skills-icon-6",
-        "description":"assets/icons/icons8-webflow-96.png"
+        "description":"assets/icons/nest.png"
     },
     {
         "title":"skills-icon-7",
-        "description":"assets/icons/icons8-asp-80.png"
+        "description":"assets/icons/rust.png"
     },
     {
         "title":"skills-icon-8",
-        "description":"assets/icons/chatgpt-icon.png"
+        "description":"assets/icons/ruby.png"
     },
     {
         "title":"skills-icon-9",
-        "description":"assets/icons/icons8-unity-96.png"
+        "description":"assets/icons/django.png"
     },
     {
         "title":"skills-icon-10",
-        "description":"assets/icons/icons8-php-logo-128.png"
+        "description":"assets/icons/asp.jpg"
+    },
+    {
+        "title":"skills-icon-11",
+        "description":"assets/icons/shopify.png"
+    },
+    {
+        "title":"skills-icon-12",
+        "description":"assets/icons/postgresql.png"
+    },
+    {
+        "title":"skills-icon-13",
+        "description":"assets/icons/aws.png"
+    },
+    {
+        "title":"skills-icon-14",
+        "description":"assets/icons/azure.png"
+    },
+    {
+        "title":"skills-icon-15",
+        "description":"assets/icons/git.png"
     }
-
 ]
